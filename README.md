@@ -1,4 +1,4 @@
-👋 Welcome to Quora Question Pairs!
+# 👋 Welcome to Quora Question Pairs!
 
 💡 Have you ever visited Quora and wondered if a question has already been answered before? This project aims to solve that problem by identifying which questions are duplicates of questions that have already been asked on the platform.
 
